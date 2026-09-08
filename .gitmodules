@@ -10,3 +10,6 @@
 [submodule "lib/jcwk"]
 	path = lib/jcwk
 	url = https://github.com/fluffels/jcwk.git
+[submodule "lib/NoGraphicsAPI"]
+	path = lib/NoGraphicsAPI
+	url = https://github.com/sebbbi/NoGraphicsAPI.git
