@@ -38,6 +38,10 @@ build/
 # Logs
 LOG
 
+# Quake game data
+*.pak
+*.PAK
+
 # Editor configs
 .vscode
 
